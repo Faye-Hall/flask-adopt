@@ -1,0 +1,4 @@
+__pycache__/
+__venv__/
+seed.py
+adopt_db.pgsql
